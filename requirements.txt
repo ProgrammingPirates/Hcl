@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+langchain
+langchain_groq
+streamlit
+imbalanced-learn
